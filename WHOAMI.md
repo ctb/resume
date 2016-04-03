@@ -1,3 +1,5 @@
+## Overview
+
 My pre-faculty research was been in developmental molecular biology,
 gene networks, and systems biology, but since then I've focused on how
 to make (biological) sense of large amounts of sequencing data,
@@ -22,3 +24,9 @@ Finally, I'm pro-open science, open source, and open access, and I use
 social media a lot.  Sometimes people are interested in talking about
 that.
 
+## Background
+
+* PhD Caltech 2007, Biology; worked on early sea urchin development and genomics with Eric Davidson.
+* postdoc Caltech 2007-2008; worked with Marianne Bronner on chick neural crest development;
+* Asst Prof, Comp Sci / Microbiology, Michigan State University, 2008-2014; efficient algorithms for sequence analysis
+* Assoc Prof, School of VetMed, UC Davis, 2015-present; data intensive biology and genomics.
