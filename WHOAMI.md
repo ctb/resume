@@ -1,6 +1,6 @@
 ## Overview
 
-My pre-faculty research was been in developmental molecular biology,
+My pre-faculty research was in developmental molecular biology,
 gene networks, and systems biology, but since then I've focused on how
 to make (biological) sense of large amounts of sequencing data,
 typically from non-model systems (so largely transcriptomes and
